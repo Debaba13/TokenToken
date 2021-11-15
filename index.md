@@ -6,7 +6,7 @@ Crypto is a dynamic world. Information available on public platforms technical d
 
 TNTN attempts to solve this by creating a community for the users of DeFi that are not software engineers.
 
-INTRODUCING TNTN
+### INTRODUCING TNTN
 
 TokenToken is a token created on Polygon(MATIC) blockchain that has a supply of 160 Million that it will transfer to community in its entirety, that means no possibility of exit scam or rugpulling, as the developer team does not possess any funds from the start.
 
@@ -17,35 +17,3 @@ TokenToken is a token created on Polygon(MATIC) blockchain that has a supply of 
 10 of the addresses will be given randomly to 10 people that holds any amount of $TNTN.
 
 The token charges 5 percent holders fee and 1 percent automatic LP fee per transaction, incentivizing hodling and community building that results from it.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Debaba13/TokenToken/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
